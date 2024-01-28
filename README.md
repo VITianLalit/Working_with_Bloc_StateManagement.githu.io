@@ -1,4 +1,4 @@
-# bloc_st_mn
+# BreadcrumbsWorking_with_Bloc_StateManagement.
 
 A new Flutter project.
 
@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+video:
+
+
+
+
+
+https://github.com/VITianLalit/Working_with_Bloc_StateManagement.githu.io/assets/98540540/5a50445f-0ef1-4aec-8e12-4949b101a4d3
+
